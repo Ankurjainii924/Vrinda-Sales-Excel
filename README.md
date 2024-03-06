@@ -1,5 +1,7 @@
 # Vrinda Stores Sales Dashboard
 
+![alt text](https://github.com/ankurjainii924/Vrinda-Sales-Excel/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/Ankurjainii924/Vrinda-Sales-Excel/blob/main/Vrinda%20sales%20report%20png.png)
 ## Overview
 
 Welcome to the Vrinda Stores Sales Dashboard project! This Excel-based dashboard provides a comprehensive visual representation of sales data for Vrinda Stores. It incorporates interactive charts and pie charts to help analyze various aspects of the sales performance, enabling stakeholders to make informed decisions.
