@@ -1,6 +1,5 @@
 # Vrinda Stores Sales Dashboard
 
-![alt text](https://github.com/ankurjainii924/Vrinda-Sales-Excel/blob/main/image.jpg?raw=true)
 ![alt text](https://github.com/Ankurjainii924/Vrinda-Sales-Excel/blob/main/Vrinda%20sales%20report%20png.png)
 ## Overview
 
